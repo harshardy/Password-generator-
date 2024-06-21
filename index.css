@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins','sans-serit';
+}
+body{
+    background:#002339;
+    color: #fff;
+}
+.container{
+    margin: 12%;
+    width: 90%;
+    max-width:700px ;
+}
+.container h1{
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+.container h1 span{
+    border-bottom: 4px solid yellowgreen;
+    padding: 10px;
+    color: yellowgreen;
+}
+.display{
+    width: 100%;
+    justify-content: space-between;
+
+}
+.display input{
+    height: 50px;
+    width: 70%;
+    font-size: xx-large;
+    color: black;
+}
+i{
+    
+}
+.pass-button{
+    height: 40px;
+    width: 150px;
+    background: rgb(177, 105, 54);
+    font-size: x-large;
+    font-weight: 700;
+    font-style: normal;
+}
